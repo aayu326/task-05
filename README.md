@@ -1,4 +1,4 @@
-# internship-05
+# TASK-05
 # 🎓 Student Management System
 
 A responsive and interactive **Student Management Web App** built using **HTML, CSS, and JavaScript**. This application allows users (admin/teacher) to manage student records such as names, IDs, grades, and other details in a simple and organized way.
